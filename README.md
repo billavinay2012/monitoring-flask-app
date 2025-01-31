@@ -202,8 +202,7 @@ kubectl get pods -n default (to check the pods)
 Once your pod is up and running, run the port-forward to expose the service
 
 ```bash
-kubectl port-forward service/<service_n<img width="1440" alt="Screenshot 2025-01-30 at 6 26 11 PM" src="https://github.com/user-attachments/assets/2c43120a-00e6-4f1f-8078-1ebee858b2ae" />
-ame> 5000:5000
+kubectl port-forward service/<service_name> 5000:5000
 ```
 
 ## **Snapshots
