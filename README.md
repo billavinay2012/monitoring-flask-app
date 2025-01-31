@@ -211,7 +211,7 @@ ame> 5000:5000
 ![Screenshot 2025-01-30 at 6 30 48 PM](https://github.com/user-attachments/assets/a3fdcb5e-cdf0-4a30-b62e-e0b01ca08115)
 
 
-![Uploading Screenshot 2025-01-30 at 6.26.11 PM.png…]()
+<img width="1440" alt="Screenshot 2025-01-30 at 6 26 11 PM" src="https://github.com/user-attachments/assets/e2fef675-c2e8-4d4e-9f44-bae208bfbf24" />
 
 
 <img width="1440" alt="Screenshot 2025-01-30 at 6 26 31 PM" src="https://github.com/user-attachments/assets/e3aade79-ee7e-4ed2-a6dc-e4817a19b562" />
